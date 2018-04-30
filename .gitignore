@@ -25,6 +25,8 @@ gradle-*
 gradle/wrapper
 gradle/wrapper/*
 
+# Git
+.gitattributes
 
 # Local configuration file (sdk path, etc)
 local.properties
